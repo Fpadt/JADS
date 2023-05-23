@@ -1,10 +1,17 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# JADS
+# smart-R <a href="https://www.smart-r.net" target="_blank" rel="noopener noreferrer"><img src="figures/mail_signature_white.png" align="right" height="138" /></a>
 
-<!-- badges: start -->
-<!-- badges: end -->
+*Under Development*
+
+<!-- badges: start 
+[![R-CMD-check](https://github.com/tidyverse/ggplot2/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/tidyverse/ggplot2/actions/workflows/R-CMD-check.yaml)
+[![codecov](https://codecov.io/gh/Fpadt/sapyr/branch/main/graph/badge.svg?token=8FXGGC2M8C)](https://codecov.io/gh/Fpadt/sapyr)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/sapyr)](https://cran.r-project.org/package=sapyr) 
+<badges: end -->
+
+## Overview
 
 The goal of JADS is to …
 
@@ -30,7 +37,7 @@ example workflow can be found here:
 
 You can also embed plots, for example:
 
-![](README_files/figure-gfm/pressure-1.png)<!-- -->
+<img src="man/figures/pressure-1.png" width="100%" />
 
 In that case, don’t forget to commit and push the resulting figure
 files, so they display on GitHub.
